@@ -1,4 +1,4 @@
-### Hi there 🐧
+Hey, I'm Lucas 🐧
 
 - 🌱 I’m currently learning JavaScript and Python.
 
