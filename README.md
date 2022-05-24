@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning JavaScript and Python.
 
-<div style="display: inline_block"><br>
+<div align="center">
   <a href="https://github.com/lucasbezerraprg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasbezerraprg&show_icons=true&theme=midnight-purple" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbezerraprg&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbezerraprg&show_icons=true&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbezerraprg&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
   
 
@@ -23,3 +23,5 @@
 <div> 
   <a href="https://www.instagram.com/lucas_bezerra_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
