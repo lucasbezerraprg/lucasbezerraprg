@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 🐧
 
 - 🌱 I’m currently learning JavaScript and Python.
 
 <div align="center">
   <a href="https://github.com/lucasbezerraprg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbezerraprg&show_icons=true&theme=midnight-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbezerraprg&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbezerraprg&show_icons=true&theme=midnight-purple" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbezerraprg&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
   
 
