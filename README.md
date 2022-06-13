@@ -7,8 +7,8 @@ Hey, I'm Lucas 🐧
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbezerraprg&show_icons=true&theme=midnight-purple" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbezerraprg&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
-  
-
+   
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
