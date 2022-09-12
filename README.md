@@ -1,6 +1,6 @@
 Hey, I'm Lucas 🐧
 
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning JavaScript, Python and PHP.
 
 <div align="center">
   <a href="https://github.com/lucasbezerraprg">
