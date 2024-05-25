@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        <img src="https://i.ibb.co/Brw8NcS/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg" width="200" />
+        <img src="[https://i.ibb.co/Brw8NcS/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg](https://ibb.co/Brw8NcS"><img src="https://i.ibb.co/s6tLHbM/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg)" width="200" />
     </div>
     <div>
         <h2>Olá, Meu nome é Lucas Bezerra :)</h2>
