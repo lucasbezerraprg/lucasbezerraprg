@@ -1,20 +1,16 @@
-Hey, I'm Lucas 🐧
+<div>
+<img align="right" src="https://ibb.co/Brw8NcS" width="280" />
 
-- 🌱 I’m currently learning JavaScript, Python and PHP.
+## Olá, Meu nome é Lucas Bezerra :)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+Meu nome é Lucas Bezerra, bacharelando em Ciência da Computação pelo Centro Universitario de João Pessoa (UNIPÊ) e Estagiário pela Chianca Softwares. Sou absolutamente apaixonado por Desenvolvimento Web (frontend e backend), Basquete 🏀, filmes 🎦 e jogos 🎮!
+
+Atualmente, meu principal foco de desenvolvimento é Java e Python, mas também estou familiarizado com PHP e C/C++ !
+
+[![Linkedin: lucasbezerra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucas-bezerra-b757b3221/)
+
 </div>
-  
-  ##
+
  
 
 
