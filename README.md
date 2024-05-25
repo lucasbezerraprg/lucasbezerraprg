@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="[https://ibb.co/Brw8NcS](https://ibb.co/Brw8NcS"><img src="https://i.ibb.co/Brw8NcS/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg)" width="280" />
+<img align="right" src="[https://ibb.co/Brw8NcS](https://ibb.co/Brw8NcS"><img src="https://i.ibb.co/Brw8NcS/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg)" width="200" />
 
 ## Olá, Meu nome é Lucas Bezerra :)
 
