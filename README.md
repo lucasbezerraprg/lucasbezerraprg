@@ -11,7 +11,7 @@
       </p>
     </td>
     <td>
-      <img src="https://i.ibb.co/Brw8NcS/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg" width="400" />
+      <img src="https://i.ibb.co/Brw8NcS/0264ec8b-a424-4e14-add1-88b4727d07f3.jpg" width="700" />
     </td>
   </tr>
 </table>
