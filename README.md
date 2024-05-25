@@ -15,3 +15,4 @@
     </td>
   </tr>
 </table>
+![Snake animation](https://github.com/lucasbezerraprg/lucasbezerraprg/blob/output/github-contribution-grid-snake.svg)
