@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h2>Olá, Meu nome é Lucas Bezerra :)</h2>
+      <h2>Olá, Meu nome é Lucas Bezerra </h2>
       <p>Meu nome é Lucas Bezerra, bacharelando em Ciência da Computação pelo Centro Universitario de João Pessoa (UNIPÊ) e Estagiário pela Chianca Softwares. Sou absolutamente apaixonado por Desenvolvimento Web (frontend e backend), Basquete 🏀, filmes 🎦 e jogos 🎮!</p>
       <p>Atualmente, meu principal foco de desenvolvimento é Java e Python, mas também estou familiarizado com PHP e C/C++ !</p>
       <p>
