@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h2>Olá, Meu nome é Lucas Bezerra </h2>
-      <p>Meu nome é Lucas Bezerra, Bacharel em Ciência da Computação pelo Centro Universitario de João Pessoa (UNIPÊ) e Estagiário pela Energisa. Sou absolutamente apaixonado por Desenvolvimento Web (frontend e backend), Basquete 🏀, filmes 🎦 e jogos 🎮!</p>
+      <p>Meu nome é Lucas Bezerra, Bacharel em Ciência da Computação pelo Centro Universitario de João Pessoa (UNIPÊ) e Assistente Pleno pela Energisa. Sou absolutamente apaixonado por Desenvolvimento Web (frontend e backend), Basquete 🏀, filmes 🎦 e jogos 🎮!</p>
       <p>Atualmente, faço Pós Graduação | MBA em BI and BIG DATA !</p>
       <p>
         <a href="https://www.linkedin.com/in/lucas-bezerra-b757b3221/">
